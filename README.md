@@ -1,3 +1,3 @@
 # Torch
 
-A simple torch application for android
+A simple minimalist UI  torch application for android
